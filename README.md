@@ -1,6 +1,6 @@
 # Description
 
-The library provides single function to determine the environment under which a react app is started. The function returns `true` in case of react development server, `false` in case of built application.
+The library provides a single function to determine the environment under which a react app is started. The function returns `true` in case of react development server, `false` in case of built application.
 
 Tested with create-react-app.
 

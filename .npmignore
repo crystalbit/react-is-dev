@@ -1,3 +1,5 @@
 .gitignore
 package-lock.js
 test.js
+.coveralls.yml
+.travis.yml

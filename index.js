@@ -1,0 +1,1 @@
+module.exports = React => '_self' in React.createElement('div');

@@ -15,7 +15,9 @@
     "react",
     "environment",
     "development",
-    "production"
+    "production",
+    "dev",
+    "prod"
   ],
   "author": "crystalbit",
   "license": "MIT",

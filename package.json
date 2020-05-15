@@ -1,6 +1,6 @@
 {
   "name": "react-is-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to determine whether react app is under development server or production environment",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
     "production"
   ],
   "author": "crystalbit",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/crystalbit/react-is-dev/issues"
   },

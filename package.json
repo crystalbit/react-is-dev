@@ -1,7 +1,7 @@
 {
   "name": "react-is-dev",
   "version": "1.0.0",
-  "description": "A simple library to determine whether react app is run via development server or production",
+  "description": "A simple library to determine whether react app is under development server or production environment",
   "main": "index.js",
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "name": "react-is-dev",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library to determine whether a react app is under development or production environment",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/crystalbit/react-is-dev.svg?branch=master)](https://travis-ci.org/crystalbit/async-delay-planner) [![Coverage Status](https://coveralls.io/repos/github/crystalbit/react-is-dev/badge.svg?branch=master)](https://coveralls.io/github/crystalbit/async-delay-planner?branch=master)
+[![Build Status](https://travis-ci.org/crystalbit/react-is-dev.svg?branch=master)](https://travis-ci.org/crystalbit/react-is-dev) [![Coverage Status](https://coveralls.io/repos/github/crystalbit/react-is-dev/badge.svg?branch=master)](https://coveralls.io/github/crystalbit/react-is-dev?branch=master)
 
 # Description
 
